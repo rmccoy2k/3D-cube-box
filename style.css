@@ -7,8 +7,7 @@
   height: 100vh;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
-  url(images/images/fe-gif-6.gif) no-repeat;
-/*   <img src="https://github.com/rmccoy2k/portfolio/blob/main/images/batman-2.gif?raw=true"> no-repeat; */
+    url(images/fe-gif-6.gif) no-repeat;
   background-size: cover;
 }
 
@@ -65,17 +64,17 @@
 }
 
 .cube-1 .front {
-  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-7.gif?raw=true) no-repeat 50% 0;
+  background: url(images/fe-gif-7.gif) no-repeat 50% 0;
   background-size: cover;
 }
 
 .cube-2 .front {
-  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-7.gif?raw=true) no-repeat 50% -7vw;
+  background: url(images/fe-gif-7.gif) no-repeat 50% -7vw;
   background-size: cover;
 }
 
 .cube-3 .front {
-  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-7.gif?raw=true) no-repeat 50% -14vw;
+  background: url(images/fe-gif-7.gif) no-repeat 50% -14vw;
   background-size: cover;
 }
 
@@ -84,17 +83,17 @@
 }
 
 .cube-1 .back {
-  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-10.gif?raw=true) no-repeat 50% 0;
+  background: url(images/fe-gif-10.gif) no-repeat 50% 0;
   background-size: cover;
 }
 
 .cube-2 .back {
-  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-10.gif?raw=true) no-repeat 50% -7vw;
+  background: url(images/fe-gif-10.gif) no-repeat 50% -7vw;
   background-size: cover;
 }
 
 .cube-3 .back {
-  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-10.gif?raw=true) no-repeat 50% -14vw;
+  background: url(images/fe-gif-10.gif) no-repeat 50% -14vw;
   background-size: cover;
 }
 
