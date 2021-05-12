@@ -7,8 +7,8 @@
   height: 100vh;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
-/*   url(images/images/fe-gif-6.gif) no-repeat; */
-  <img src="https://github.com/rmccoy2k/portfolio/blob/main/images/batman-2.gif?raw=true"> no-repeat;
+  url(images/images/fe-gif-6.gif) no-repeat;
+/*   <img src="https://github.com/rmccoy2k/portfolio/blob/main/images/batman-2.gif?raw=true"> no-repeat; */
   background-size: cover;
 }
 
