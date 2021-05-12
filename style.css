@@ -83,17 +83,17 @@
 }
 
 .cube-1 .back {
-  background: url(images/batman.jpg) no-repeat 50% 0;
+  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-10.gif?raw=true) no-repeat 50% 0;
   background-size: cover;
 }
 
 .cube-2 .back {
-  background: url(images/batman.jpg) no-repeat 50% -7vw;
+  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-10.gif?raw=true) no-repeat 50% -7vw;
   background-size: cover;
 }
 
 .cube-3 .back {
-  background: url(images/batman.jpg) no-repeat 50% -14vw;
+  background: url(images/https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-10.gif?raw=true) no-repeat 50% -14vw;
   background-size: cover;
 }
 
@@ -102,17 +102,17 @@
 }
 
 .cube-1 .left {
-  background: url(images/3D-image-7.jpg) no-repeat 50% 0;
+  background: url(images/batman.jpg) no-repeat 50% 0;
   background-size: cover;
 }
 
 .cube-2 .left {
-  background: url(images/3D-image-7.jpg) no-repeat 50% -7vw;
+  background: url(images/batman.jpg) no-repeat 50% -7vw;
   background-size: cover;
 }
 
 .cube-3 .left {
-  background: url(images/3D-image-7.jpg) no-repeat 50% -14vw;
+  background: url(images/batman.jpg) no-repeat 50% -14vw;
   background-size: cover;
 }
 
