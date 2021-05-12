@@ -7,8 +7,7 @@
   height: 100vh;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
-/*     url(images/fe-gif-6.gif) no-repeat; */
-    <img src="https://github.com/rmccoy2k/3D-cube-box/blob/main/images/fe-gif-10.gif?raw=true">
+  url(images/fe-gif-6.gif) no-repeat;
   background-size: cover;
 }
 
